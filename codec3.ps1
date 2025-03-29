@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Searches for files in a specified directory while skipping certain tools and folders, processes their contents, and creates a summary file.
+    Searches for files in a specified directory while skipping certain tools and folders, processes ths eir contents, and creates a summary file.
 
 .DESCRIPTION
     This script recursively searches for files in the given directory based on specified valid extensions.
